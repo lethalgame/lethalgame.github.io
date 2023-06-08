@@ -1,2 +1,2 @@
-# lethalgame.github.io
+# Lethal
 
